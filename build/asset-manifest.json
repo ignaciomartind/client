@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7905c7ea.chunk.css",
+    "main.js": "/static/js/main.7e4bead8.chunk.js",
+    "main.js.map": "/static/js/main.7e4bead8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7ccc017b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7ccc017b.js.map",
+    "static/js/2.8829fc57.chunk.js": "/static/js/2.8829fc57.chunk.js",
+    "static/js/2.8829fc57.chunk.js.map": "/static/js/2.8829fc57.chunk.js.map",
+    "static/js/3.b61dab0e.chunk.js": "/static/js/3.b61dab0e.chunk.js",
+    "static/js/3.b61dab0e.chunk.js.map": "/static/js/3.b61dab0e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7905c7ea.chunk.css.map": "/static/css/main.7905c7ea.chunk.css.map",
+    "static/js/2.8829fc57.chunk.js.LICENSE.txt": "/static/js/2.8829fc57.chunk.js.LICENSE.txt",
+    "static/media/facebook.9af87987.svg": "/static/media/facebook.9af87987.svg",
+    "static/media/hero.css": "/static/media/hero.f069f4c1.jpg",
+    "static/media/model1.804b5b63.jpeg": "/static/media/model1.804b5b63.jpeg",
+    "static/media/model2.89f888e7.jpg": "/static/media/model2.89f888e7.jpg",
+    "static/media/model3.a9d1ed4e.jpg": "/static/media/model3.a9d1ed4e.jpg",
+    "static/media/model4.b2724c77.jpg": "/static/media/model4.b2724c77.jpg",
+    "static/media/model5.9a019aa6.jpg": "/static/media/model5.9a019aa6.jpg",
+    "static/media/person-icon-eg.1c8c819a.jpg": "/static/media/person-icon-eg.1c8c819a.jpg",
+    "static/media/tesla.6721381e.svg": "/static/media/tesla.6721381e.svg",
+    "static/media/unity.c96dbf67.svg": "/static/media/unity.c96dbf67.svg",
+    "static/media/working-vector.8c5dcb46.jpg": "/static/media/working-vector.8c5dcb46.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ccc017b.js",
+    "static/js/2.8829fc57.chunk.js",
+    "static/css/main.7905c7ea.chunk.css",
+    "static/js/main.7e4bead8.chunk.js"
+  ]
+}

@@ -1,0 +1,31 @@
+.hero{
+    height: 94vh;
+    background-color: #12161c;
+    width: 100%;
+}
+.hero-image{
+    height: 85%;
+    background-image: url('../../img/hero.jpg');
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-image p{
+    font-size: 10rem;
+    font-family: 'Bebas Neue';
+    text-shadow: 0px 0px 3px black;
+}
+.hero-sponsors{
+    height: 15%;
+    max-height: 15%;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hero-sponsors > *{
+    width:5%;
+    cursor: pointer;
+}

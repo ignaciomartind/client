@@ -1,0 +1,81 @@
+header{
+    margin: 0 -30px;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0px 0px 4px black;
+    display: flex;
+    justify-content: space-between;
+    background-color: #12161c;
+    padding: 0 2rem;
+    height: 6vh;
+}
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+}
+h1{
+    font-size: 2.5rem;
+    letter-spacing: 4px;
+}
+.icon{
+    color: white;
+    font-size: 1.8rem;
+}
+a{
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue';
+    letter-spacing: 2px;
+}
+.header-search{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    padding-left: 10rem;
+    align-items: center;
+}
+.search-bar{
+    padding: 0 .5rem;
+    width: 40%;
+    border-radius: 6px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    border-radius: 6px;
+    padding: .5rem .5rem;
+    width: 95%;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+.search-bar:nth-child(1){
+    font-size: 1.3rem;
+}
+.header-user{
+    padding: 0 5rem 0 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 30%;
+}
+.header-user > *{
+    margin-right:3rem;
+    cursor: pointer;
+}
+.header-user img{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+a:hover, .icon:hover{
+    color:#4a487c
+}
+a,.icon{
+    cursor: pointer;
+}

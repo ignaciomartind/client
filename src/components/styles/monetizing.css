@@ -1,0 +1,21 @@
+.monetizing{
+    background-color: rgb(235, 235, 235);
+    padding: 5rem;
+}
+.monetizing-flex{
+    margin: 3rem auto;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.monetizing-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-content: flex-start;
+}
+.monetizing-left p{
+    color: #12161c;
+    font-size: 2rem;
+}
